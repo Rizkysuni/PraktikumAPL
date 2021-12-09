@@ -1,0 +1,4 @@
+Rabbit
+Strategy patterm
+Sebelumnya saya menamai studi kasus nya dengan inisial R, dari nama saya yaitu Rizki Suni, Jadi pada studi kasus ini saya menamainya dengan Rabbit, Jadi, ada beberapa jenis kelinci, yaitu Kelinci Himalayan(2-6kg), Kelinci Dutch (1kg-3kg), Kelinci satin (4-6kg), dan  masing masing kelinci dari setiap jenis nya memiliki berat yang berbeda-beda, jadi ketika kita ingin memilih kelinci, kita akan memilih opsi pada nomor berapa yang akan kita pilih, misal pada huruf A yaitu kelinci himalayan, pada huruf B kelinci dutch, dan C kelinci satin, jadi ketika pembeli telah memilih kelinci apa yang dipilih, lalu muncul lah fitur adapter pattern yaitu mengkonversikan berat dari kelinci tersebut yaitu dari kilogram menjadi gram, misal nya dia memilih kelinci pada huruf C, yaitu kelinci satin dengan  berat 4-6 kg, kita akan mengkonversi berat nya, dari 5kg akan menjadi berapa gram.
+sekian dari saya.
